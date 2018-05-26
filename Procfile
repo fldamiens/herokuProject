@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* herokuprojet.heroku.Main
